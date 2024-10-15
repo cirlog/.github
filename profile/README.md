@@ -1,4 +1,4 @@
-This is the official enamentis GmbH multirepo
+This is the official Cir.Log multirepo
 
 <!--
 
